@@ -1,1 +1,19 @@
 body{padding-top:50px;padding-bottom:20px}.body-content{padding-left:15px;padding-right:15px}.carousel-caption p{font-size:20px;line-height:1.4}.carousel-inner .item img[src$=".svg"]{width:100%}#qrCode{margin:15px}@media screen and (max-width:767px){.carousel-caption{display:none}}
+table{
+    width: 80%;
+    background-color: rgba(100, 50, 300, 0.25);
+    border:2px solid gray;
+}
+td{
+    padding: 5px;
+    font-family: Arial;
+    font-size: 10pt;
+}
+th{
+    padding: 15px;
+    font-family: Verdana;
+    color: white;
+}
+tr:hover{
+    background-color: blue;
+}

@@ -32,4 +32,22 @@
     .carousel-caption {
         display: none;
     }
+    table{
+        width: 80%;
+        background-color: rgba(100, 50, 300, 0.25);
+        border:2px solid gray;
+    }
+    td{
+        padding: 5px;
+        font-family: Arial;
+        font-size: 10pt;
+    }
+    th{
+        padding: 15px;
+        font-family: Verdana;
+        color: white;
+    }
+    tr:hover{
+        background-color: blue;
+    }
 }
